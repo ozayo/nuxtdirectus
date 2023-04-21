@@ -31,7 +31,7 @@ I will use the following modules:
 
 - [] Headleass CMS [Directus](https://nuxt.com/modules/directus)
 - [x] CSS UI [Tailwind CSS](https://nuxt.com/modules/tailwindcss)
-- [] Google Fonts [Google-fonts](https://nuxt.com/modules/google-fonts)
+- [x] Google Fonts [Google-fonts](https://nuxt.com/modules/google-fonts)
 - [] Icon [Nuxt Icon](https://nuxt.com/modules/icon)
 - [] Image [Nuxt Image](https://nuxt.com/modules/image)
 - [] Image CDN service [Twicpics Moduele](https://nuxt.com/modules/twicpics)
