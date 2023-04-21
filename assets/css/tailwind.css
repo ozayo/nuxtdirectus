@@ -5,8 +5,8 @@
 @layer base {
   html,
   body {
-    font-family: "Roboto Slab", serif;
-    /* font-family: "Inter", sans-serif; */
+    /* font-family: "Roboto Slab", serif; */
+    font-family: "Inter", sans-serif;
     @apply text-base text-gray-800 font-light;
   }
   h1,

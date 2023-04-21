@@ -30,7 +30,7 @@ I will use Railway to deploy my Directus application.
 I will use the following modules:
 
 - [] Headleass CMS [Directus](https://nuxt.com/modules/directus)
-- [] CSS UI [Tailwind CSS](https://nuxt.com/modules/tailwindcss)
+- [x] CSS UI [Tailwind CSS](https://nuxt.com/modules/tailwindcss)
 - [] Google Fonts [Google-fonts](https://nuxt.com/modules/google-fonts)
 - [] Icon [Nuxt Icon](https://nuxt.com/modules/icon)
 - [] Image [Nuxt Image](https://nuxt.com/modules/image)
