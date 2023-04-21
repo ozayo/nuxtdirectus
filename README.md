@@ -29,17 +29,17 @@ I will use Railway to deploy my Directus application.
 
 I will use the following modules:
 
-[] Headleass CMS [Directus](https://nuxt.com/modules/directus)
-[] CSS UI [Tailwind CSS](https://nuxt.com/modules/tailwindcss)
-[] Google Fonts [Google-fonts](https://nuxt.com/modules/google-fonts)
-[] Icon [Nuxt Icon](https://nuxt.com/modules/icon)
-[] Image [Nuxt Image](https://nuxt.com/modules/image)
-[] Image CDN service [Twicpics Moduele](https://nuxt.com/modules/twicpics)
+- [] Headleass CMS [Directus](https://nuxt.com/modules/directus)
+- [] CSS UI [Tailwind CSS](https://nuxt.com/modules/tailwindcss)
+- [] Google Fonts [Google-fonts](https://nuxt.com/modules/google-fonts)
+- [] Icon [Nuxt Icon](https://nuxt.com/modules/icon)
+- [] Image [Nuxt Image](https://nuxt.com/modules/image)
+- [] Image CDN service [Twicpics Moduele](https://nuxt.com/modules/twicpics)
 
 ## Project todo
 
-[x] Setup Directus on Railway
-[x] Setup Nuxt 3 on lacalhost
+- [x] Setup Directus on Railway
+- [x] Setup Nuxt 3 on lacalhost
 
 ## Project issues
 
