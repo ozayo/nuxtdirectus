@@ -1,42 +1,46 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 & Directus
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+On this project, I'm using Nuxt 3 with Directus as a headless CMS.
 
-## Setup
+## Nuxt 3
 
-Make sure to install the dependencies:
+Nuxt is a framework for creating Vue.js applications. It is based on Vue.js, Vue Router and Vuex. It is designed to make the development of Vue.js applications easier and more performant. Nuxt.js comes with a lot of features to help you in your development such as Asynchronous Data, Middleware, Layouts, and more. Nuxt.js also gives you the possibility to create a Single Page Application (SPA) or a Static Generated Application (SSG).
 
-```bash
-# yarn
-yarn install
+See [Nuxt 3] (https://nuxt.com/) for more information.
+Nuxt Version: 3.4.2
 
-# npm
-npm install
+## Directus
 
-# pnpm
-pnpm install
-```
+Directus is a headless CMS that allows you to manage your content and data. It is a self-hosted solution that can be installed on your own server. Directus is built with Node.js and uses a MySQL, MariaDB, PostgreSQL, SQLite, or MongoDB database. It is a headless CMS that allows you to manage your content and data. It is a self-hosted solution that can be installed on your own server. Directus is built with Node.js and uses a MySQL, MariaDB, PostgreSQL, SQLite, or MongoDB database.
 
-## Development Server
+See [Directus] (https://directus.io/) for more information.
 
-Start the development server on `http://localhost:3000`
+On this project I will use Directus self-hosted version.
 
-```bash
-npm run dev
-```
+## Railway
 
-## Production
+Railway is a platform for deploying and managing serverless applications. It is a serverless platform that allows you to deploy your applications without having to worry about the infrastructure. It is a serverless platform that allows you to deploy your applications without having to worry about the infrastructure. It is a serverless platform that allows you to deploy your applications without having to worry about the infrastructure.
 
-Build the application for production:
+See [Railway] (https://railway.app?referralCode=6dYRC7) for more information.
 
-```bash
-npm run build
-```
+I will use Railway to deploy my Directus application.
 
-Locally preview production build:
+## Modules
 
-```bash
-npm run preview
-```
+I will use the following modules:
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+[] Headleass CMS [Directus] (https://nuxt.com/modules/directus)
+[] CSS UI [Tailwind CSS] (https://nuxt.com/modules/tailwindcss)
+[] Google Fonts [Google-fonts] (https://nuxt.com/modules/google-fonts)
+[] Icon [Nuxt Icon] (https://nuxt.com/modules/icon)
+[] Image [Nuxt Image] (https://nuxt.com/modules/image)
+[] Image CDN service [Twicpics Moduele] (https://nuxt.com/modules/twicpics)
+
+## Project todo
+
+[x] Setup Directus on Railway
+[x] Setup Nuxt 3 on lacalhost
+
+## Project issues
+
+We will see :)
