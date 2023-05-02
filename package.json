@@ -9,13 +9,14 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@nuxt/devtools": "^0.4.1",
     "@nuxtjs/google-fonts": "^3.0.0",
-    "@nuxtjs/tailwindcss": "^6.6.6",
+    "@nuxtjs/tailwindcss": "^6.6.7",
     "@types/node": "^18",
-    "nuxt": "^3.4.2",
-    "nuxt-icon": "^0.3.3"
+    "nuxt": "^3.4.3",
+    "nuxt-icon": "^0.4.0"
   },
   "dependencies": {
-    "nuxt-directus": "^5.1.2"
+    "nuxt-directus": "^5.2.1"
   }
 }

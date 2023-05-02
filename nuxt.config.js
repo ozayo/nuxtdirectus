@@ -19,5 +19,12 @@ export default defineNuxtConfig({
   },
   directus: {
     url: "https://directus.ozayozdemir.com/",
+    devtools: false,
   },
+
+  devtools: {
+    enabled: true,
+  },
+
+  ssr: true,
 });
