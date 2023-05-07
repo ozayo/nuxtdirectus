@@ -3,7 +3,7 @@
     <h1>Blog Posts</h1>
     <p>Used basic Restapi for fetch Directus data</p>
     <p>
-      file name is: apitest.vue and for slug root is pages>newblog>[slug].vue
+      File name is: apitest.vue and for slug root is pages>newblog>[slug].vue
     </p>
     <div class="grid gap-5 lg:grid-cols-3 sm:max-w-sm sm:mx-auto lg:max-w-full">
       <div
@@ -21,7 +21,7 @@
                 quality: 60,
               })
             "
-            alt="{{ post.blog_title }}}"
+            :alt="post.blog_title"
             width="400"
             height="240"
           />

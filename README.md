@@ -29,18 +29,33 @@ I will use Railway to deploy my Directus application.
 
 I will use the following modules:
 
-- [ ] Headleass CMS [Directus](https://nuxt.com/modules/directus)
+- [x] Headleass CMS [Directus](https://nuxt.com/modules/directus)
 - [x] CSS UI [Tailwind CSS](https://nuxt.com/modules/tailwindcss)
 - [x] Google Fonts [Google-fonts](https://nuxt.com/modules/google-fonts)
 - [x] Icon [Nuxt Icon](https://nuxt.com/modules/icon)
-- [ ] Image [Nuxt Image](https://nuxt.com/modules/image)
+- [ ] Image [Nuxt Image](https://nuxt.com/modules/image) or
 - [ ] Image CDN service [Twicpics Module](https://nuxt.com/modules/twicpics)
 
 ## Project todo
 
 - [x] Setup Directus on Railway
 - [x] Setup Nuxt 3 on lacalhost
+- [x] Basic header and footer components
+- [x] Blog page use it with Directus/Nuxt module
+- [x] Blog post page use it with Rest API
+- [x] Blog categories with Directus
+- [ ] Subpages for blog categories
+- [x] Setup SMTP for Directus (postmarkapp)
+- [x] Amazon S3 integration [Directus docs](https://docs.directus.io/self-hosted/config-options.html#file-storage)
+- [ ] Mobile menu
+- [ ] Hero components for main page use with Directus
+- [ ] Services components for main page use with Directus
+- [x] Basic deploy on Netlify
+- [ ] SEO optimization
 
 ## Project issues
 
 We will see :)
+
+- [x] Losing Directus images after each deployment on Railway
+- [ ] After Amazon S3 integration, images loading very slow.
