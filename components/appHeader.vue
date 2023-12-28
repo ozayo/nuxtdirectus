@@ -14,14 +14,17 @@
         <li>
           <NuxtLink to="/about" class="p-3">About</NuxtLink>
         </li>
-        <li>
-          <NuxtLink to="/blog" class="p-3">Blog</NuxtLink>
+        <!-- <li>
+          <NuxtLink to="/blogold" class="p-3">Blog</NuxtLink>
         </li>
         <li>
           <NuxtLink to="/test" class="p-3">NewBlog</NuxtLink>
+        </li> -->
+        <li>
+          <NuxtLink to="/myblog" class="p-3">Fetch Blog</NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/apitest" class="p-3">NewAPI</NuxtLink>
+          <NuxtLink to="/blog" class="p-3">New Blog</NuxtLink>
         </li>
       </ul>
     </div>

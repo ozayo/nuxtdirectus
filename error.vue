@@ -6,7 +6,7 @@
         error.statusCode
       }}
     </h1>
-    <p class="mb-8">Opps, something is wrong.</p>
+    <h2 class="mb-8">Opps, something is wrong.</h2>
     <p class="mb-8">
       It's probably your fault, because we did everything right.
       <Icon name="carbon:face-wink" size="24" />

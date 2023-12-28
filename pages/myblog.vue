@@ -3,9 +3,9 @@
     <h1>Blog Posts</h1>
     <p>Used basic Restapi for fetch Directus data</p>
     <p>
-      File name is: apitest.vue and for slug root is pages>newblog>[slug].vue
+      File name is: blog.vue and for slug root is pages>newblog>[slug].vue
     </p>
-    <div class="grid gap-5 lg:grid-cols-3 sm:max-w-sm sm:mx-auto lg:max-w-full">
+    <div class="grid gap-5 lg:grid-cols-3 sm:max-w-sm sm:mx-auto lg:max-w-full mt-8">
       <div
         class="mb-5 rounded-xl bg-gray-100 shadow-xl"
         v-for="post in posts"

@@ -42,7 +42,7 @@
       <div v-html="post.blog_contentw"></div>
     </div>
     <div class="mt-5">
-      <nuxt-link to="/apitest" class="text-slate-900"
+      <nuxt-link to="/myblog" class="text-slate-900"
         ><Icon name="mdi:arrow-left" /> Back to blog page</nuxt-link
       >
     </div>
