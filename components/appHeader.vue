@@ -26,6 +26,12 @@
         <li>
           <NuxtLink to="/blog" class="p-3">New Blog</NuxtLink>
         </li>
+        <li>
+          <NuxtLink to="/lastblog" class="p-3">Last Blog</NuxtLink>
+        </li>
+        <li>
+          <NuxtLink to="/products" class="p-3">Products</NuxtLink>
+        </li>
       </ul>
     </div>
   </nav>

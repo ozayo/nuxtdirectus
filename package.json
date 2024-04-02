@@ -17,7 +17,7 @@
     "nuxt-icon": "^0.6.8"
   },
   "dependencies": {
-    "@directus/sdk": "^14.0.0",
+    "@directus/sdk": "^15.0.3",
     "nuxt-directus": "^5.5.0"
   }
 }
